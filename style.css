@@ -1,0 +1,21 @@
+body {
+    
+    text-align: center;
+    background: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=826&t=st=1681901254~exp=1681901854~hmac=2f0053d205cb399fd7ca45340b4b4edfbeb6cc623d9c8d0098741ba10805e5b4) no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
+
+  img{
+    
+    margin: auto;
+    display: block;
+  }
+.insta {
+    display: flex;
+    justify-content: center;
+  }
+
+  .insta a {
+    margin: 0 10px;
+  }
